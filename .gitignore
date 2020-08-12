@@ -10,4 +10,5 @@ cdk.out
 # Parcel build directories
 .cache
 .build
-/.parcel-cache/
+/.parcel-cache
+.idea
